@@ -1,0 +1,29 @@
+{
+  "name": "gulpteste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-bundle-files": "^1.9.8",
+    "gulp-typescript": "^5.0.1",
+    "readable-stream": "^3.3.0",
+    "typescript": "^3.4.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-css-condense": "^1.1.2",
+    "gulp-file-inline": "^2.2.3",
+    "gulp-publish": "^0.8.7",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-zip": "^4.2.0",
+    "node-sass": "^4.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

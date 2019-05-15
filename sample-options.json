@@ -1,0 +1,23 @@
+{
+  "parentTaskName": "bundle",
+  "concat": {
+    "active": true,
+    "config": {}
+  },
+  "uglify": {
+    "active": false,
+    "config": {}
+  },
+  "sourcemap": {
+    "active": true,
+    "config": {}
+  },
+  "destinationFolder": "dist",
+  "newLine": ";",
+  "files": {
+    "js/output.js": [
+      "js/bundle.js",
+      "tests/main.js"
+    ]
+  }
+}
